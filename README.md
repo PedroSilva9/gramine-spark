@@ -10,7 +10,7 @@
 ## Build the image
 
 ```sh
-docker build app .
+docker build -t app .
 ```
 
 ## Run the container
